@@ -96,7 +96,7 @@
 
 注释掉demo.webapi中的WeatherForecast.cs文件中的内容
 
-### 2.4.1 安装2.2中创建一个类库
+### 2.4.1 按照2.2中创建一个类库
 
 ![1666840975448](image/README/1666840975448.png)
 
@@ -176,7 +176,7 @@ alt + 回车
 
 # 4 nuget 管理包
 
-Ctrl +shift +p  
+Ctrl +shift +p
 
 输入 nuget
 
@@ -190,7 +190,7 @@ Ctrl +shift +p
 
 删除项目的nuget 包
 
-推荐使用解决方案插件打开相应的项目 中的packages 点垃圾桶即可删除 或者手动编辑 csproj 
+推荐使用解决方案插件打开相应的项目 中的packages 点垃圾桶即可删除 或者手动编辑 csproj
 
 ![1666847319972](image/README/1666847319972.png)
 
@@ -204,12 +204,11 @@ Ctrl +shift +p
 
 [官网NET CLI 发布 文档](https://learn.microsoft.com/zh-cn/dotnet/core/deploying/deploy-with-cli)
 
-
-# 6 注意事项 
+# 6 注意事项
 
 1.如果在开发过程中出现了莫名其妙的问题。如命名空间 找不到什么的 可是使用C# 插件重启项目
 
-Ctrl +shift +p 
+Ctrl +shift +p
 
 restart omnisharp  回车 即可
 
