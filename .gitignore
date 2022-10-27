@@ -1,0 +1,4 @@
+# 屏蔽dll
+*.dll
+bin/
+obj/
